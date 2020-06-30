@@ -2,8 +2,11 @@ import React from 'react';
 import { render } from '@testing-library/react';
 import HomePage from '../../../Components/Pages/HomePage/HomePage';
 
-test('renders learn react link', () => {
-  const { getByText } = render(<HomePage />);
-  const linkElement = getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+test('renders two buttons with expected text', () => {
+  const doc = render(<HomePage />);
+  const join_btn = doc.container.getElementsByClassName("Join-button").item(0);
+  const create_btn = doc.container.getElementsByClassName("Create-button").item(0);
+
+  expect(join_btn).toBeInTheDocument();
+  expect(create_btn).toBeInTheDocument();
 });

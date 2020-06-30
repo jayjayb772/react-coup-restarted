@@ -1,21 +1,12 @@
 .HomePage {
   text-align: center;
-}
-
-.HomePage-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .HomePage-logo {
-    animation: HomePage-logo-spin infinite 20s linear;
-  }
-}
-
-.HomePage-header {
   background-color: #282c34;
   min-height: 100vh;
+}
+
+
+.HomePage-header {
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,15 +15,37 @@
   color: white;
 }
 
-.HomePage-link {
-  color: #61dafb;
+
+.Buttons-paper{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
 }
 
-@keyframes HomePage-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Join-button{
+  background-color: red;
+  height: 200px;
+  width: 100px;
+  opacity: 0.6;
+  transition: 0.3s;
+  font-size: 24px;
+}
+
+.Join-button:hover{
+  opacity: 1;
+}
+
+
+.Create-button{
+  background-color: blue;
+  height: 200px;
+  width: 100px;
+  opacity: 0.6;
+  transition: 0.3s;
+  font-size: 24px;
+}
+
+.Create-button:hover{
+  opacity: 1;
 }
