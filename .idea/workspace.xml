@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e2d7fb0-4036-493b-a52c-a78b4dbf1517" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Pages/CreatePage/CreateForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Pages/CreatePage/CreatePage.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/CreatePage/CreatePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/CreatePage/CreatePage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Pages/CreatePage/CreatePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Pages/CreatePage/CreatePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/Pages/ReadyUpPage/ReadyUpPage.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/Pages/ReadyUpPage/ReadyUpPage.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/npm-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/npm-test.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tests/Pages/CreatePage/CreatePage.test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -74,6 +69,15 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/npm-test.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -129,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/tests/Pages/ReadyUpPage/ReadyUpPage.test.js" />
         <option value="$PROJECT_DIR$/src/Components/Pages/CreatePage/CreateForm.js" />
         <option value="$PROJECT_DIR$/src/tests/Pages/CreatePage/CreatePage.test.js" />
+        <option value="$PROJECT_DIR$/.github/workflows/npm-test.yml" />
       </list>
     </option>
   </component>
@@ -153,65 +158,13 @@
             <path>
               <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-              <item name="CreatePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-              <item name="ReadyUpPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-              <item name="HomePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-coup-restarted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-coup-restarted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-              <item name="ReadyUpPage" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,7 +294,7 @@
       <updated>1593556161613</updated>
       <workItem from="1593556164945" duration="4289000" />
       <workItem from="1593627251389" duration="6273000" />
-      <workItem from="1593640290280" duration="2341000" />
+      <workItem from="1593640290280" duration="2637000" />
     </task>
     <servers />
   </component>
@@ -378,10 +331,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12950000" />
+    <option name="totallyTimeSpent" value="13246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -588,6 +542,13 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/npm-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
