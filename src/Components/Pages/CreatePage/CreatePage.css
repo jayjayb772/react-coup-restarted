@@ -49,3 +49,26 @@
 .Create-button:hover{
   opacity: 1;
 }
+
+.Form-Text{
+  color: white;
+  font-size: 20px;
+}
+
+.Name-input{
+  background-color: #282c34;
+  font-size: 20px;
+  color:white;
+}
+
+.Submit-button{
+  background-color: maroon;
+  color:white;
+  font-size: 20px;
+  opacity: 0.4;
+  transition:0.3s;
+}
+
+.Submit-button:hover{
+  opacity:1;
+}

@@ -10,7 +10,6 @@ test('renders two buttons with expected text', () => {
         </MemoryRouter>
     );
     const btn = doc.container.getElementsByClassName("Buttons-paper").item(0);
-
     expect(btn).toBeInTheDocument();
 });
 

@@ -1,6 +1,7 @@
 import React from 'react';
 import './CreatePage.css';
-import {Grid, Row, Col} from 'react-flexbox-grid';
+import {CreateForm} from './CreateForm.js';
+
 
 function CreatePage() {
     return (
@@ -15,11 +16,7 @@ function CreatePage() {
                 </div>
             </header>
             <div>
-                <Grid fluid>
-                    <Row center="xs">
-                    </Row>
-                </Grid>
-
+                <CreateForm/>
             </div>
         </div>
     );
