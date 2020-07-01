@@ -25,3 +25,7 @@ test('button works', () => {
     //const Ready_btn = doc.container.getElementsByClassName("ReadyUpButton").item(0);
     expect(btn).toBeInTheDocument();
 });
+
+test('bad test', () =>{
+   expect(2+2).toBe(5);
+});
