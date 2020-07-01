@@ -8,7 +8,7 @@ function HomePage() {
             <header className="HomePage-header">
                 <div className="Buttons-paper">
                     <div>
-                        <p>Welocome to Coup!</p>
+                        <p>Welcome to Coup!</p>
                         <p>Create a game or Join with a code!</p>
                     </div>
 

@@ -1,0 +1,52 @@
+.ReadyUpPage {
+    text-align: center;
+    background-color: #282c34;
+    min-height: 100vh;
+}
+
+
+.ReadyUpPage-header {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.ReadyUpBtn{
+    justify-content: center;
+}
+
+.Buttons-paper{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.UnReady-button{
+    background-color: red;
+    height: 50px;
+    width: auto;
+    opacity: 0.6;
+    font-size: 16px;
+}
+
+.UnReady-button:hover{
+    opacity: 1;
+}
+
+
+.Ready-button{
+    background-color: green;
+    height: 50px;
+    width: 150px;
+    opacity: 0.6;
+    font-size: 24px;
+}
+
+.Ready-button:hover{
+    opacity: 1;
+}

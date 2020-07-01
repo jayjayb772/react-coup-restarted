@@ -6,9 +6,10 @@ I'll be working using firebase for storage and hopefully have a working version 
 ## My timeline
 Pre-requisites: Get react-router set up, get firebase working in react 
 1. ~~Make home page with create game and join game buttons, non functional~~
-2. Make ready up page, non functional
+2. ~~Make ready up page, non functional~~
+2. Make create game page, non functional
 3. Make game page, non functional
-4. Make create game button make new firebase doc and take you to ready up page
+4. Make create game button make new firebase doc and take you to create game page
 5. Make join game page, non functional
 6. Make join game page functional with firebase doc code
 7. Make ready up page functional, allow creator to start game and take to Game Page
@@ -36,7 +37,7 @@ Additional features if time permitting
 
 
 
-This project was bootstrapped with [Create React HomePage](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React CreatePage](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -77,7 +78,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React HomePage documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create React CreatePage documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
@@ -89,7 +90,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web HomePage
+### Making a Progressive Web CreatePage
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
