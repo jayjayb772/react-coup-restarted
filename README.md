@@ -4,10 +4,10 @@ I'll be working using firebase for storage and hopefully have a working version 
 
 
 ## My timeline
-Pre-requisites: Get react-router set up, get firebase working in react 
+Pre-requisites: ~~Get react-router set up,~~ get firebase working in react 
 1. ~~Make home page with create game and join game buttons, non functional~~
 2. ~~Make ready up page, non functional~~
-2. Make create game page, non functional
+2. ~~Make create game page, non functional~~
 3. Make game page, non functional
 4. Make create game button make new firebase doc and take you to create game page
 5. Make join game page, non functional
