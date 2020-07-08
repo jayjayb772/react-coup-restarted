@@ -20,9 +20,10 @@ test('button works', () => {
     const btn = doc.container.children.item(0);
     expect(doc.container.children.item(0).className).toBe("Ready-button");
     btn.click();
-    // doc.container.children.item(0).dispatchEvent(new MouseEvent("click"));
     expect(doc.container.children.item(0).className).toBe("UnReady-button");
-    //const Ready_btn = doc.container.getElementsByClassName("ReadyUpButton").item(0);
+    btn.click();
+    expect(doc.container.children.item(0).className).toBe("Ready-button");
+
     expect(btn).toBeInTheDocument();
 });
 
